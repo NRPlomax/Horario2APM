@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: #63aeff;
+    font-size: large;
+}
+table{
+    border-collapse: collapse;
+    background-color: #90ccf1;
+    text-align: center;
+    border-width: 6px;
+    border-style: ridge;
+    border-color: black;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+tr{
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+td{
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+th{
+    font-style: italic;
+    color: rgb(0, 132, 203);
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+div1{
+color: beige;
+}
+div2{
+    color: beige;
+}
